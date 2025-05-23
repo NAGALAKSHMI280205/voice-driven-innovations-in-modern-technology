@@ -1,0 +1,11 @@
+intent,keywords,response
+greeting,hello;hi;hey,Hello! How can I assist you today?
+account_help,account;login;password,I can help you with account and login issues.
+payment_issue,payment;bill;invoice,I'll help you with billing or invoice problems.
+tech_support,error;crash;not working,Let me connect you to technical support.
+order_status,order;tracking;shipped,Checking the status of your order.
+return_policy,return;refund;exchange,Let me explain the return and refund process.
+delivery_issue,delivery;late;not arrived,I'm sorry your delivery is delayed. Let me check it.
+cancel_order,cancel;order;wrong item,I'll help you cancel or modify your order.
+product_info,product;details;specs,What product details would you like to know?
+goodbye,bye;goodbye;see you,Thanks for reaching out. Have a great day!
